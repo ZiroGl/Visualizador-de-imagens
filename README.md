@@ -73,6 +73,9 @@ Na tela principal, o usuário ira encontrar os botões para trocar a imagem e a 
 
 <img src="https://github.com/user-attachments/assets/97c2861d-e78e-4aa5-a552-d6e7a2c80c6b" width="260" height="500"/>
 
+# 📲 APK do APP 
+
+<a href="https://github.com/ZiroGl/Visualizador-de-imagens/blob/main/Visualizador%20de%20imagens.apk"> Download APK </a>
 
 # 📄 Licença
 
